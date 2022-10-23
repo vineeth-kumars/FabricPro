@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FabricPro/static/css/main.f4c8d4fc.css",
-    "main.js": "/FabricPro/static/js/main.acb06a8d.js",
+    "main.js": "/FabricPro/static/js/main.b2e760ca.js",
     "static/js/787.28cb0dcd.chunk.js": "/FabricPro/static/js/787.28cb0dcd.chunk.js",
     "static/media/P18Model.png": "/FabricPro/static/media/P18Model.cf821f78c811448bc2d9.png",
     "static/media/p13.png": "/FabricPro/static/media/p13.450ee1744d9887594ef0.png",
@@ -10,11 +10,11 @@
     "static/media/pexel.jpg": "/FabricPro/static/media/pexel.ce71d0422c688e5290a7.jpg",
     "index.html": "/FabricPro/index.html",
     "main.f4c8d4fc.css.map": "/FabricPro/static/css/main.f4c8d4fc.css.map",
-    "main.acb06a8d.js.map": "/FabricPro/static/js/main.acb06a8d.js.map",
+    "main.b2e760ca.js.map": "/FabricPro/static/js/main.b2e760ca.js.map",
     "787.28cb0dcd.chunk.js.map": "/FabricPro/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f4c8d4fc.css",
-    "static/js/main.acb06a8d.js"
+    "static/js/main.b2e760ca.js"
   ]
 }
